@@ -1,0 +1,66 @@
+body {
+    background-image: url(./hinh-nen-chat-2.jpg);
+}
+.contair{
+    margin: auto;
+    width:300px;
+    height: 300px;
+}
+.logo{
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    padding-top: 20px;
+    padding-left: 205px;
+}
+
+.contair1{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin: auto;
+    position: relative;
+    top: -271px;
+    left: 62px;
+  background-image: url(./tai-hinh-nen-mien-phi.jpg);
+  box-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+.tinder1{
+    font-size: 30px;
+    position: relative;
+    top: -252px;
+    left: 73px;
+    color: black;
+}
+.tinder2{
+    font-size: 20px;
+    color: white;
+}
+.tinder3{
+    font-size: 20px;
+    color: white;
+}
+.boydi{
+    position: relative;
+    top: -6px;
+    left: 112px;
+  background-color: cadetblue;
+  color: white;
+    
+}
+.form action{
+    margin: auto;
+}
+input{
+    margin: auto;
+    background-color: black;
+    color: white;
+    box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+.polo{
+   padding-top: 30px;
+   padding-left: 10px;
+}
+#id{
+    color: white;
+}

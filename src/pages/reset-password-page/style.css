@@ -1,0 +1,58 @@
+.contais{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+.contais1{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    border:1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    border-radius: 20px;
+    background-image: url(./hinh-nen-lua-chay-dep-nhat_024846465.jpg);
+}
+.susu{
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    margin-top: 60px;
+}
+.sisu{
+    padding-top: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    font-weight: 600px;
+}
+.helo{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 30px;
+    background-color: red;
+    color: white;
+    margin-left: 30px;
+}
+input{
+    padding-top: 10px;
+    padding-left: 6px;
+    padding-bottom: 10px;
+}
+.concak{
+    font-size: 30px;
+}
+.dilip{
+    margin-left: 20px;
+    margin-top: 30px;
+
+}
+body{
+    background-image: url(./download.jpg);
+}
+.clarr{
+    font-weight: 600px;
+    color: white;
+}
