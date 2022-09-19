@@ -98,6 +98,7 @@ export let renderErrorMessage = (id, text) => {
   const errorMessage = document.getElementById(id);
   if (errorMessage) {
     errorMessage.innerText = text;
+    console.log("hello word");
   }
 };
 
